@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Collections\Friends\bin\Debug\net8.0\Friends.exe
+C:\Users\User\source\repos\Collections\Friends\bin\Debug\net8.0\Friends.deps.json
+C:\Users\User\source\repos\Collections\Friends\bin\Debug\net8.0\Friends.runtimeconfig.json
+C:\Users\User\source\repos\Collections\Friends\bin\Debug\net8.0\Friends.dll
+C:\Users\User\source\repos\Collections\Friends\bin\Debug\net8.0\Friends.pdb
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\Friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\Friends.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\Friends.AssemblyInfo.cs
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\Friends.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\Friends.dll
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\refint\Friends.dll
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\Friends.pdb
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\Friends.genruntimeconfig.cache
+C:\Users\User\source\repos\Collections\Friends\obj\Debug\net8.0\ref\Friends.dll
