@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Collections\ReversedWord\bin\Debug\net8.0\ReversedWord.exe
+C:\Users\User\source\repos\Collections\ReversedWord\bin\Debug\net8.0\ReversedWord.deps.json
+C:\Users\User\source\repos\Collections\ReversedWord\bin\Debug\net8.0\ReversedWord.runtimeconfig.json
+C:\Users\User\source\repos\Collections\ReversedWord\bin\Debug\net8.0\ReversedWord.dll
+C:\Users\User\source\repos\Collections\ReversedWord\bin\Debug\net8.0\ReversedWord.pdb
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.AssemblyInfo.cs
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.sourcelink.json
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.dll
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\refint\ReversedWord.dll
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.pdb
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ReversedWord.genruntimeconfig.cache
+C:\Users\User\source\repos\Collections\ReversedWord\obj\Debug\net8.0\ref\ReversedWord.dll
